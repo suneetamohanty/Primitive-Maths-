@@ -1,0 +1,31 @@
+Problems
+Q1. WAP in C to check the number is divisible by 2 or 3 or 5 or 7 or not.
+Q2. WAP in C to input a number and check it is odd or even, if even check it is divisible by 4 
+or not and if odd then check the number is divisible by 3 or not.
+Q3. WAP in C to input a number and print how many digits of the number. The number 
+should not more than 4 digit.
+Q4. WAP in C to input 4 subjects mark of a student and their roll number, and display the 
+grade sheet of the students of KIIT University, Use else..if ladder statement.
+ Q5. WAP in C to calculate the electric bill of a consumer. You have to input the consumer no, 
+and unit of consumption. 
+Q6. WAP in C to input a number and check the number is odd or even using switch case.
+Q7. WAP in C to perform all the arithmetic operation of two integer, like 1: Addition, 2: 
+Subtraction, 3: Multiplication, 4: Division, 5: Modules using switch case.
+Q8. WAP in C to perform all the arithmetic operation of two integer, like +: Addition, -: 
+Subtraction, *: Multiplication, /: Division, %: Modules using switch case.
+Q9. WAP in C to check a character is digit or alphabet. If alphabet then check vowel or 
+consonant using nested switch structure.[ user can only input digit or alphabet].
+Q10. WAP in C to input 4 subjects mark of a student and their roll number, and display the 
+grade sheet of the students of KIIT University, Using switch case.
+ 
+Date: 22 / 03 / 2022
+Avg>=9 Grade=”O”
+Avg>=8 Grade=”E”
+Avg>=7 Grade=”A”
+Avg>=6 Grade=”B”
+Avg<6 Grade=”Fail”
+Avg>=9 Grade=”O”
+Avg>=8 Grade=”E”
+Avg>=7 Grade=”A”
+Avg>=6 Grade=”B”
+Avg<6 Grade=”Fail”
